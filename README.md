@@ -23,7 +23,7 @@ LINQ не раніше Lab 14).
 ## Структура репозиторію
 
 ```
-OOP-Tomka-CourseForHardCoders/
+CSharp-OOP-CourseForHardCoders/
 ├── lectures/          ← теорія: 21 розділ, 147 секцій + питання для самоконтролю
 ├── labs/              ← інструкції 22 лабораторних
 ├── solutions/         ← код-розв'язки лаб (теки як у репозиторії студента)
@@ -37,7 +37,7 @@ OOP-Tomka-CourseForHardCoders/
 ├── tools/             ← інструменти: схеми, книга у Word, перевірка коду
 ├── .github/workflows/ ← CI/CD: збірка сайту і раннера → GitHub Pages
 ├── CLAUDE.md          ← правила роботи для Claude Code
-└── OOP-Tomka-CourseForHardCoders.sln
+└── CSharp-OOP-CourseForHardCoders.sln
 ```
 
 Згенероване й локальне (у `.gitignore`): `tools/diagrams/out/`, `tools/docx-export/output/`,

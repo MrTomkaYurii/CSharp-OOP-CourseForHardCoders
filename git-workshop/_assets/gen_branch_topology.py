@@ -203,6 +203,6 @@ for x in t:
 merge_node(m1, NF_Y, PURPLE)
 ltext(RX + 24, NF_Y + 60, "окремий merge-коміт — видно, де лаба почалась і закінчилась", f_tiny, ACCENT)
 
-out = r"C:\Users\Yurii\source\repos\OOP-Tomka-CourseForHardCoders\git-workshop\_assets\branch-topology.png"
+out = r"C:\Users\Yurii\source\repos\CSharp-OOP-CourseForHardCoders\git-workshop\_assets\branch-topology.png"
 img.save(out, "PNG")
 print(f"Saved {W}x{H}")

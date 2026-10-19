@@ -17,10 +17,10 @@ The workflow:
 2. Builds Astro with `npm run build`.
 3. Publishes `site/dist` to GitHub Pages.
 
-For a repository named `OOP-Tomka-CourseForHardCoders`, Astro automatically uses:
+For a repository named `CSharp-OOP-CourseForHardCoders`, Astro automatically uses:
 
 ```txt
-/OOP-Tomka-CourseForHardCoders/
+/CSharp-OOP-CourseForHardCoders/
 ```
 
 as the production base path on GitHub Pages, while local development keeps `/`.

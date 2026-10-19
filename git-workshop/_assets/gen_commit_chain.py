@@ -190,6 +190,6 @@ b = pointer(cb, ROW + 48, "Lab-01", ACCENT, 80)
 arrow_up(cb, b + 16, b + 2, WARN)
 pointer(cb, b + 16, "HEAD", WARN, 80)
 
-out = r"C:\Users\Yurii\source\repos\OOP-Tomka-CourseForHardCoders\git-workshop\_assets\commit-chain.png"
+out = r"C:\Users\Yurii\source\repos\CSharp-OOP-CourseForHardCoders\git-workshop\_assets\commit-chain.png"
 img.save(out, "PNG")
 print(f"Saved {W}x{H}")

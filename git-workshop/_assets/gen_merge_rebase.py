@@ -179,6 +179,6 @@ bullets(RX0 + 30, BY0 + 230, [
 rr([RX0 + 16, BY1 - 54, RX1 - 16, BY1 - 14], 6, (22, 28, 44), outline=(55, 85, 150))
 ctext((RX0 + RX1) // 2, BY1 - 34, "Ніколи не роби rebase гілки, яку вже запушив", f_body, WARN)
 
-out = r"C:\Users\Yurii\source\repos\OOP-Tomka-CourseForHardCoders\git-workshop\_assets\merge-vs-rebase.png"
+out = r"C:\Users\Yurii\source\repos\CSharp-OOP-CourseForHardCoders\git-workshop\_assets\merge-vs-rebase.png"
 img.save(out, "PNG")
 print(f"Saved {W}x{H}")

@@ -184,6 +184,6 @@ tw_cl  = bb_cl[2]-bb_cl[0]
 rr(draw, [mid_cl-tw_cl//2-4, CL_Y-22, mid_cl+tw_cl//2+4, CL_Y-4], 3, (20,26,38))
 draw.text((mid_cl-tw_cl//2, CL_Y-20), lbl_cl, font=f_cmd, fill=(130,180,220))
 
-out = r"C:\Users\Yurii\source\repos\OOP-Tomka-CourseForHardCoders\git-workshop\_assets\git-zones.png"
+out = r"C:\Users\Yurii\source\repos\CSharp-OOP-CourseForHardCoders\git-workshop\_assets\git-zones.png"
 img.save(out, "PNG")
 print(f"Saved {W}x{H}")

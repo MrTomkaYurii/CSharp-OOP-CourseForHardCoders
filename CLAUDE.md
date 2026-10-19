@@ -1,4 +1,4 @@
-# OOP-Tomka-CourseForHardCoders — правила для Claude
+# CSharp-OOP-CourseForHardCoders — правила для Claude
 
 Курс ООП на C# (.NET 10) викладача Юрія Томки, сайт tomka.space.
 
